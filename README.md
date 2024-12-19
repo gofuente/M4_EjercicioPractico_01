@@ -1,8 +1,14 @@
-# React + Vite
+### Objetivo del proyecto
+Es un ejercicio para empezar el desarrollo del sistema de hospital.
+Se utilizaron componentes, hooks y props.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Pasos para ejecutar Aplicación.
+Ejecutar en una carpeta vacia los siguientes comandos :
+- npm create vite@latest hospital-app --template react
+- cd hospital-app
+- npm install
 
-Currently, two official plugins are available:
+Reemplazar el contenido del repositorio en la carpeta hospital-app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ejecutar el comando
+- npm run dev
